@@ -1,0 +1,17 @@
+{
+  "name": "server_side_javascript",
+  "version": "1.0.0",
+  "description": "server side javascript sample",
+  "main": "hello.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
